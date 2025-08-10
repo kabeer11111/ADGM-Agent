@@ -1,0 +1,8 @@
+streamlit
+python-docx
+regex
+google-generativeai
+chromadb
+sentence-transformers
+python-dotenv
+pdfplumber
