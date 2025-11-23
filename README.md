@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vgbm4cZ0)
-
 https://github.com/user-attachments/assets/21f0fe60-301a-4f98-a9fb-559f0d1b9718
 
 # 🏢 ADGM Corporate Agent - AI-Powered Legal Document Review
